@@ -1,4 +1,4 @@
-# 修改自官方的 caddy v2 dockerfile，添加 cloudflare he webdav 支持
+# 修改自官方的 Caddy v2 dockerfile，添加 cloudflare 和 WebDAV 支持
 # https://github.com/caddyserver/caddy-docker/blob/master/2.3/alpine/Dockerfile
 
 FROM alpine:3.12
